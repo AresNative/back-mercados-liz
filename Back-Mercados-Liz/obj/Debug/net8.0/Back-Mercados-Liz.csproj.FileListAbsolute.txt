@@ -70,3 +70,4 @@ C:\Users\sistemas02\Desktop\code\API\Back-Mercados-Liz\bin\Debug\net8.0\Microsof
 C:\Users\sistemas02\Desktop\code\API\Back-Mercados-Liz\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\sistemas02\Desktop\code\API\Back-Mercados-Liz\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\sistemas02\Desktop\code\API\Back-Mercados-Liz\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\sistemas02\Desktop\code\API\Back-Mercados-Liz\obj\Debug\net8.0\Back-Mercados-Liz.sourcelink.json

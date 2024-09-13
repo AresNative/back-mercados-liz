@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Back-Mercados-Liz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+080410f5548064828eedd6e810451cba5c6ccb60")]
 [assembly: System.Reflection.AssemblyProductAttribute("Back-Mercados-Liz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Back-Mercados-Liz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
