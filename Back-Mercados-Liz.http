@@ -1,0 +1,11 @@
+@Back_Mercados_Liz_HostAddress = http://localhost:29010
+
+GET {{Back_Mercados_Liz_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{Back_Mercados_Liz_HostAddress}}/todos/1
+Accept: application/json
+
+###
